@@ -1,8 +1,9 @@
 $("h1").css("color", "red");
 
-$("button").on("click", function() {
+$(".off").on("click", function() {
     $(".header").fadeOut();
 });
-$("button").on("click", function() {
+
+$(".on").on("click", function() {
     $(".header").fadeIn();
 });
