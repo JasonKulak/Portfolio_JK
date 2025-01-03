@@ -20,16 +20,24 @@ h2 {
     margin: auto;
 }
 
+.two_projects {
+    display: flex;
+}
+
 .mealprep_project {
-    border: solid white;
+    /* border: solid white; */
     text-align: center;
     padding-top: 25px;
+    height: 300px;
+    width: 200px;
 }
 
 .harveys_project {
-    border: solid white;
+    /* border: solid white; */
     text-align: center;
     padding-top: 25px;
+    height: 300px;
+    width: 200px;
 }
 
 p {
