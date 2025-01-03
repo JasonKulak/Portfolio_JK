@@ -15,6 +15,23 @@ h2 {
     font-style: italic;
 }
 
+.on-off {
+    display: block;
+    margin: auto;
+}
+
+.mealprep_project {
+    border: solid white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.harveys_project {
+    border: solid white;
+    text-align: center;
+    padding-top: 25px;
+}
+
 p {
     color: white;
 }
